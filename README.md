@@ -7,8 +7,7 @@ We Identify lane lines by color, so by using numpy this repository includes:<br>
  1.2 Region Masking in Python. <br>
  1.2 Color Region in Python.  <br>
   </p>
-  <br>
- <br>
+
  <h3> 2. Using OpenCV </h3>
  2.1 Canny Edge Detection. <br>
  2.2 Hough Transform. <br>
