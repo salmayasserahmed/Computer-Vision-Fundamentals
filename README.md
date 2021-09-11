@@ -9,6 +9,6 @@ We Identify lane lines by color, so by using numpy this repository includes:<br>
   </p>
 
  <h3> 2. Using OpenCV </h3>
- 2.1 Canny Edge Detection. <br>
+ <a href="https://github.com/salmayasserahmed/Computer-Vision-Fundamentals/blob/main/Using%20OpenCV/CannyEdgeDetection.py">2.1 Canny Edge Detection.</a> <br>
  2.2 Hough Transform. <br>
 
